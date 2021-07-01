@@ -1,0 +1,2 @@
+# stage
+stage produit-categories
